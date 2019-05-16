@@ -1,0 +1,11 @@
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\bin\Debug\netcoreapp2.1\Pizzaria Completa.deps.json
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\bin\Debug\netcoreapp2.1\Pizzaria Completa.runtimeconfig.json
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\bin\Debug\netcoreapp2.1\Pizzaria Completa.runtimeconfig.dev.json
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\bin\Debug\netcoreapp2.1\Pizzaria Completa.dll
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\bin\Debug\netcoreapp2.1\Pizzaria Completa.pdb
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\obj\Debug\netcoreapp2.1\Pizzaria Completa.csprojAssemblyReference.cache
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\obj\Debug\netcoreapp2.1\Pizzaria Completa.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\obj\Debug\netcoreapp2.1\Pizzaria Completa.AssemblyInfoInputs.cache
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\obj\Debug\netcoreapp2.1\Pizzaria Completa.AssemblyInfo.cs
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\obj\Debug\netcoreapp2.1\Pizzaria Completa.dll
+D:\senai\codigos\C# Orientação a Objeto\Pizzaria Completa\obj\Debug\netcoreapp2.1\Pizzaria Completa.pdb
